@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🎯 [Click Here to Visit My Portfolio](https://your-portfolio.vercel.app/)
+🎯 [Click Here to Visit My Portfolio](https://nihalvmakwana.netlify.app/)
 
 ---
 
@@ -17,7 +17,7 @@
 - 🎞️ **Framer Motion** – Smooth animations & transitions  
 - 🧠 **Custom Hooks** – For scroll effects and animations  
 - 🌈 **Responsive Design** – Mobile-first, works beautifully on all devices  
-- 🌐 **Deployment** – Hosted on [Vercel](https://vercel.com)
+- 🌐 **Deployment** – Hosted on [Netlify](https://netlify.com)
 
 ---
 
