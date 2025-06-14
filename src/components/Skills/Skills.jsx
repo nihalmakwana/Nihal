@@ -133,7 +133,7 @@ const Skills = () => {
         Here's a toolbox of everything I use to build powerful, modern web applications 🔧✨.  
         From crafting stunning frontends 🖼️ with <strong>React</strong> and <strong>Tailwind CSS</strong>,  
         to building robust backends ⚙️ with <strong>Node.js</strong> and <strong>Express</strong>,  
-        and even managing data with <strong>MongoDB</strong> 📦 – I’ve got the full-stack covered 💪.  
+        and even managing data with <strong>MongoDB</strong> 📦 – I’ve got the full-stack covered.  
         I’m always learning and experimenting 🔍, adding more tools to this growing arsenal 🚀.
       </motion.p>
 

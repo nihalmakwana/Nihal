@@ -38,7 +38,7 @@ const About = () => {
         viewport={{ once: false, amount: 0.5 }}
         className="text-5xl md:text-6xl font-bold text-center z-10 mb-8"
       >
-        About Me 👋
+        About Me
       </motion.h2>
 
       <motion.p
@@ -48,14 +48,14 @@ const About = () => {
         viewport={{ once: false, amount: 0.4 }}
         className="max-w-3xl text-center text-lg md:text-xl leading-relaxed z-10"
       >
-        Hey there! I'm <strong>Makwana Nihal Vinodbhai</strong> – a proud <strong>BCA graduate</strong> with a borderline unhealthy obsession for web development 😅.
+        Hey there! I'm <strong>Makwana Nihal Vinodbhai</strong> – a proud <strong>BCA graduate</strong> with a borderline unhealthy obsession for web development.
         Somewhere between learning what a <code>&lt;div&gt;</code> is and deploying full-stack apps, I fell in love with the <strong>MERN Stack</strong> 💻⚙️.
         <br /><br />
-        Yes, I learned everything online (shoutout to YouTube and Google 🙌), and while I don’t have a job <em>*yet*</em> 😅, I’ve spent the past year turning my curiosity into real skills – one bug and one breakthrough at a time 🐛➡️🚀.
+        Yes, I learned everything online (shoutout to YouTube and Google), and while I don’t have a job <em>*yet*</em>, I’ve spent the past year turning my curiosity into real skills – one bug and one breakthrough at a time ➡️🚀.
         <br /><br />
-        I may not have professional experience <em>on paper</em> 📄, but I come with <strong>passion</strong>, <strong>perseverance</strong>, and enough late-night coding sessions to call myself a real dev 🌙☕. All I need now is that <strong>one opportunity</strong> to convert my skills into expertise and grow with a team that values fresh energy and a learner's mindset.
+        I may not have professional experience <em>on paper</em> 📄, but I come with <strong>passion</strong>, <strong>perseverance</strong>, and enough late-night coding sessions to call myself a real dev ☕. All I need now is that <strong>one opportunity</strong> to convert my skills into expertise and grow with a team that values fresh energy and a learner's mindset.
         <br /><br />
-        Let’s build something awesome together! 😎💥
+        Let’s build something awesome together!
       </motion.p>
     </section>
   );

@@ -69,8 +69,8 @@ const Contact = () => {
         viewport={{ once: true, amount: 0.4 }}
         variants={fadeIn("up", 0.2)}
       >
-        Hey there! If you’ve scrolled this far, you must be seriously cool 😄. Whether it’s a tech talk, project idea, or just sharing memes over tea ☕... I’m all ears (and code)!
-Shoot me a message, ping my socials below, or just type connect --with=nihal in your favorite terminal 😉.
+        Hey there! If you’ve scrolled this far, you must be seriously cool. Whether it’s a tech talk, project idea, or just sharing memes over tea ☕... I’m all ears (and code)!
+Shoot me a message, ping my socials below, or just type connect --with=nihal in your favorite terminal.
 
 
       </motion.p>
