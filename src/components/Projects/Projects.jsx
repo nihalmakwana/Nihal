@@ -96,7 +96,7 @@ const Projects = () => {
                 </span>
               ))}
             </div>
-            <div className="flex gap-4">
+            {/* <div className="flex gap-4">
               <a
                 href={project.github}
                 target="_blank"
@@ -104,7 +104,7 @@ const Projects = () => {
               >
                 GitHub
               </a>
-            </div>
+            </div> */}
           </motion.div>
         ))}
       </div>
